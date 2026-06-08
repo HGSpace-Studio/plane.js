@@ -1,3 +1,5 @@
+import './core/Plane.js';
+
 import './math/Vector2.js';
 import './math/Rect2.js';
 import './math/Transform2D.js';
@@ -8,7 +10,6 @@ import './core/EventBus.js';
 import './core/node.js';
 import './core/MainLoop.js';
 import './core/SceneTree.js';
-import './core/Plane.js';
 
 import './scene/Scene.js';
 
