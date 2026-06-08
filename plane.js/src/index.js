@@ -5,7 +5,7 @@ import './math/Color.js';
 import './math/MathUtils.js';
 
 import './core/EventBus.js';
-import './core/Node.js';
+import './core/node.js';
 import './core/MainLoop.js';
 import './core/SceneTree.js';
 import './core/Plane.js';
